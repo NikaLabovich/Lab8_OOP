@@ -1,0 +1,17 @@
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/bin/Debug/netcoreapp2.1/oop8.deps.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/bin/Debug/netcoreapp2.1/oop8.runtimeconfig.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/bin/Debug/netcoreapp2.1/oop8.runtimeconfig.dev.json
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/bin/Debug/netcoreapp2.1/oop8.dll
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/bin/Debug/netcoreapp2.1/oop8.pdb
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.csprojAssemblyReference.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.csproj.CoreCompileInputs.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.AssemblyInfoInputs.cache
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.AssemblyInfo.cs
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.dll
+/Users/veranikalabovich/Desktop/ооп/лабы/oop8/oop8/obj/Debug/netcoreapp2.1/oop8.pdb
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.AssemblyInfo.cs
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.dll
+\\Mac\Home\Desktop\Учёба\2 курс 1 сем\ооп\лабы\oop8\oop8\obj\Debug\netcoreapp2.1\oop8.pdb
